@@ -1,1 +1,5 @@
 /.idea/
+/latex/*/*.aux
+/latex/*/*.log
+/latex/*/*.out
+/latex/*/*.toc
