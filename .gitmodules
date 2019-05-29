@@ -1,0 +1,3 @@
+[submodule "telecom"]
+	path = telecom
+	url = https://github.com/bogach/telecom.git
